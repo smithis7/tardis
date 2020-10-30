@@ -1,6 +1,4 @@
-# tardis_impact
-
-##DO NOT COMMIT ads.ipynb WITHOUT REMOVING ADS TOKEN!!!
+# tardis_impact. DO NOT COMMIT ads.ipynb WITHOUT REMOVING ADS TOKEN!!!
 
 Documenting papers that use TARDIS (Temperature And Radiative Diffusion In Supernova) code.
 
