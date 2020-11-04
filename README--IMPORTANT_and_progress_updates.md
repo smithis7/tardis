@@ -13,3 +13,5 @@ Isaac: My next step is to edit the format_arxiv_codes to exclude the 'arXiv:' an
 Kevin (2/11/2020): Did work on the requests module, found out that it was not necessary to use after time was put into it. No need for arxiv as we don't need to download the pdf as of right now. Reduced the length of ads.ipynb as a result by A LOT, much shorter now. Changed the authors, now if there are over 3 only first 3 followed by 'et al.' are presented. All data is present, now it must be formatted.
 
 Kevin (3/11/2020): Did the update to the ads.ipynb to make the formatting correct. 
+
+Isaac: There is some formatting left to do, but I got the information in the form we want it in as opposed to the pandas dataframe.
