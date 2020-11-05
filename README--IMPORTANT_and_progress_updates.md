@@ -14,4 +14,4 @@ Kevin (2/11/2020): Did work on the requests module, found out that it was not ne
 
 Kevin (3/11/2020): Did the update to the ads.ipynb to make the formatting correct. 
 
-Isaac: There is some formatting left to do, but I got the information in the form we want it in as opposed to the pandas dataframe.
+Isaac: The citations are now formatted (I believe) in a string.
