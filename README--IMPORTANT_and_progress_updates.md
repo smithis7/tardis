@@ -15,3 +15,5 @@ Kevin (2/11/2020): Did work on the requests module, found out that it was not ne
 Kevin (3/11/2020): Did the update to the ads.ipynb to make the formatting correct. 
 
 Isaac: The citations are now formatted (I believe) in a string.
+
+Kevin (7/11/2020): I did some research on rst but I wasn't able to download successfully using conda. I tried doing `conda install -c anaconda docutils` and doing just `conda install docutils` and it didn't work so I uninstalled them and will go back. Slight updates to the notebook to have the indent on the first line, and just did some reading about rst. 
