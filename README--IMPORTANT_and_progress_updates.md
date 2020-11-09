@@ -19,3 +19,5 @@ Isaac: The citations are now formatted (I believe) in a string.
 Kevin (7/11/2020): I did some research on rst but I wasn't able to download successfully using conda. I tried doing `conda install -c anaconda docutils` and doing just `conda install docutils` and it didn't work so I uninstalled them and will go back. Slight updates to the notebook to have the indent on the first line, and just did some reading about rst. 
 
 Isaac: I am still having trouble with rst documents, but I did manage to create an html file from one-- I just had to copy and paste the citations into it. I also changed the get_journal function so that it returns the full names of the journals instead of the abbreviations.
+
+Kevin (9/11/2020): Not done, but started on my own terrible attempt at the rst file using a few lines of code in ads.ipynb. If you run it, it will make the .rst file but there is still funky formatting that I need to figure out, not finished for today yet.
