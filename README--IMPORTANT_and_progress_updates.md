@@ -23,3 +23,5 @@ Isaac: I am still having trouble with rst documents, but I did manage to create 
 Kevin (9/11/2020): Not done, but started on my own terrible attempt at the rst file using a few lines of code in ads.ipynb. If you run it, it will make the .rst file but there is still funky formatting that I need to figure out, not finished for today yet.
 
 Kevin (11/11/2020): Adding my changes, need to make the subscripts and superscripts and fix the element superscripts. 
+
+Isaac: I formatted the hyperlinks and the superscripts for the articles referring to Ni-56. However, the way that I formatted the supercripts only works when the superscript comes before the word/symbol/number, as is the case with 56Ni. There are some problems I'm trying to work through that arise due to limitations in how sphinx parses .rst files.
