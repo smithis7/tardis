@@ -25,3 +25,5 @@ Kevin (9/11/2020): Not done, but started on my own terrible attempt at the rst f
 Kevin (11/11/2020): Adding my changes, need to make the subscripts and superscripts and fix the element superscripts. 
 
 Isaac: I formatted the hyperlinks and the superscripts for the articles referring to Ni-56. However, the way that I formatted the supercripts only works when the superscript comes before the word/symbol/number, as is the case with 56Ni. There are some problems I'm trying to work through that arise due to limitations in how sphinx parses .rst files.
+
+Isaac: I aded a header to the generated .rst document.
